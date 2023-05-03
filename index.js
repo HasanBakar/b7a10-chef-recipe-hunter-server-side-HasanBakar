@@ -9,6 +9,10 @@ const chefs = require('./data/top_chefs.json')
 
 
 app.get('/', (req, res) =>{
+    res.send("ChefTracker is ready for providing data")
+});
+
+app.get('/chefs', (req, res) =>{
     res.send(chefs)
 });
 
