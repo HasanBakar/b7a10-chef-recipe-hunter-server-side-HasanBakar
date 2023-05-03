@@ -2,7 +2,7 @@
     
     {
         "id": 1,
-        "Chef_Picture": "https: //i.ibb.co/djzSj9c/chef-1.png",
+        "Chef_Picture": "/images/chef__1.png",
         "Chef_Name": "Rukhsana Begum",
         "Years_of_experience": 10,
         "Numbers_of_recipes": 50,
@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        "Chef_Picture": "https: //i.ibb.co/Y7jTCBq/chef-2.png",
+        "Chef_Picture": "/images/chef__2.png",
         "Chef_Name": "Mohammad Ali",
         "Years_of_experience": 5,
         "Numbers_of_recipes": 30,
@@ -18,7 +18,7 @@
     },
     {
         "id": 3,
-        "Chef_Picture": "https: //i.ibb.co/2KrnMQ6/chef-3.jpg",
+        "Chef_Picture": "/images/chef___3.png",
         "Chef_Name": "Fatema Akter",
         "Years_of_experience": 8,
         "Numbers_of_recipes": 70,
@@ -26,7 +26,7 @@
     },
     {
         "id": 4,
-        "Chef_Picture": "https: //i.ibb.co/ZS7DLDm/chef-4.jpg",
+        "Chef_Picture": "/images/chef__4.jpg",
         "Chef_Name": "Kamrul Islam",
         "Years_of_experience": 12,
         "Numbers_of_recipes": 90,
@@ -34,7 +34,7 @@
     },
     {
         "id": 5,
-        "Chef_Picture": "https: //i.ibb.co/c2Fvfbb/Chef-5.png",
+        "Chef_Picture": "/images/Chef__5.png",
         "Chef_Name": "Nasrin Sultana",
         "Years_of_experience": 6,
         "Numbers_of_recipes": 45,
@@ -42,7 +42,7 @@
     },
     {
         "id": 6,
-        "Chef_Picture": "https: //i.ibb.co/Tr0CC0s/chef-6.png",
+        "Chef_Picture": "/images/chef__6.png",
         "Chef_Name": "Shahid Ahmed",
         "Years_of_experience": 3,
         "Numbers_of_recipes": 20,
@@ -50,7 +50,7 @@
     },
     {
         "id": 7,
-        "Chef_Picture": "https: //i.ibb.co/gvLYSWw/chef-7.png",
+        "Chef_Picture": "/images/chef___7.png",
         "Chef_Name": "Nargis Akhter",
         "Years_of_experience": 7,
         "Numbers_of_recipes": 60,
@@ -58,7 +58,7 @@
     },
     {
         "id": 8,
-        "Chef_Picture": "https: //i.ibb.co/Yb48854/chef-8.png",
+        "Chef_Picture": "/images/chef__8.png",
         "Chef_Name": "Abdul Rahman",
         "Years_of_experience": 9,
         "Numbers_of_recipes": 80,
@@ -66,7 +66,7 @@
     },
     {
         "id": 9,
-        "Chef_Picture": "https: //i.ibb.co/bB6tQhv/chef-9.png",
+        "Chef_Picture": "/images/chef__9.png",
         "Chef_Name": "Farida Khanam",
         "Years_of_experience": 4,
         "Numbers_of_recipes": 25,
