@@ -1,0 +1,109 @@
+[
+    {
+        "chef_id": 1,
+        "Chef_Picture": "https://i.ibb.co/djzSj9c/chef-1.png",
+        "Chef_Name": "Rukhsana Begum",
+        "Years_of_experience": 10,
+        "Numbers_of_recipes": 50,
+        "Likes": 1000,
+        "about_chef":"Rukhsana Begum is a chef whose culinary prowess and heartfelt approach to cooking have made her a standout figure in the culinary world. With a rich heritage rooted in traditional flavors and techniques, Rukhsana has masterfully infused her cultural background into her culinary creations, creating a unique and delightful fusion of flavors. Her dishes are a reflection of her deep understanding and appreciation for the ingredients she works with, as she expertly combines spices, herbs, and aromatics to create harmonious and mouthwatering experiences for her diners. Rukhsana's passion for cooking goes beyond just the art of preparing meals; she seeks to connect with people through her food, sharing stories, memories, and traditions with every dish she serves. Her warm and welcoming nature shines through in her interactions with guests, as she takes pleasure in introducing them to the authentic flavors of her heritage. Rukhsana Begum is not only a talented chef but also a cultural ambassador, using food as a means to bridge gaps, foster understanding, and create moments of joy and connection for those who have the pleasure of savoring her culinary creations.",
+        "recipes":[
+            {
+
+            }
+        ]
+        
+    },
+    {
+        "chef_id":2,
+        "Chef_Name":"Mohammad Ali",
+        "Chef_Picture": "https://i.ibb.co/Y7jTCBq/chef-2.png",
+        "Years_of_experience": 10,
+        "Numbers_of_recipes": 50,
+        "Likes": 500,
+        "about_chef":"Mohammad Ali is a chef whose culinary prowess and heartfelt approach to cooking have made her a standout figure in the culinary world. With a rich heritage rooted in traditional flavors and techniques, Mohammad Ali has masterfully infused her cultural background into her culinary creations, creating a unique and delightful fusion of flavors. Her dishes are a reflection of her deep understanding and appreciation for the ingredients she works with, as she expertly combines spices, herbs, and aromatics to create harmonious and mouthwatering experiences for her diners. Mohammad Ali's passion for cooking goes beyond just the art of preparing meals; she seeks to connect with people through her food, sharing stories, memories, and traditions with every dish she serves. Her warm and welcoming nature shines through in her interactions with guests, as she takes pleasure in introducing them to the authentic flavors of her heritage. Mohammad Ali is not only a talented chef but also a cultural ambassador, using food as a means to bridge gaps, foster understanding, and create moments of joy and connection for those who have the pleasure of savoring her culinary creations.",
+        "recipes":[
+            {
+
+            }
+        ]
+        
+    },
+    {
+        "chef_id":3,
+        "Chef_Picture": "https://i.ibb.co/2KrnMQ6/chef-3.jpg",
+        "Chef_Name": "Fatema Akter",
+        "Years_of_experience": 8,
+        "Numbers_of_recipes": 70,
+        "Likes": 800,
+        "about_chef":"Fatema Akter is a chef whose culinary prowess and heartfelt approach to cooking have made her a standout figure in the culinary world. With a rich heritage rooted in traditional flavors and techniques, Fatema Akter has masterfully infused her cultural background into her culinary creations, creating a unique and delightful fusion of flavors. Her dishes are a reflection of her deep understanding and appreciation for the ingredients she works with, as she expertly combines spices, herbs, and aromatics to create harmonious and mouthwatering experiences for her diners. Fatema Akter's passion for cooking goes beyond just the art of preparing meals; she seeks to connect with people through her food, sharing stories, memories, and traditions with every dish she serves. Her warm and welcoming nature shines through in her interactions with guests, as she takes pleasure in introducing them to the authentic flavors of her heritage. Fatema Akter is not only a talented chef but also a cultural ambassador, using food as a means to bridge gaps, foster understanding, and create moments of joy and connection for those who have the pleasure of savoring her culinary creations.",
+        "numbers_of_views":4500
+    },
+    {
+        "chef_id":4,
+        "Chef_Picture": "https://i.ibb.co/ZS7DLDm/chef-4.jpg",
+        "Chef_Name": "Kamrul Islam",
+        "Years_of_experience": 12,
+        "Numbers_of_recipes": 90,
+        "Likes": 1200,
+        "about_chef": "Kamrul Islam is an extraordinary chef whose culinary journey has been marked by innovation, passion, and a relentless pursuit of excellence. With an unwavering dedication to his craft, Kamrul has established himself as a true culinary artist, constantly pushing the boundaries of traditional flavors and techniques. His culinary creations are a seamless blend of contemporary influences and his deep-rooted appreciation for his cultural heritage. Kamrul's dishes are not only visually stunning but also a harmonious symphony of flavors that leave a lasting impression on those fortunate enough to taste them. Beyond his culinary skills, Kamrul possesses a natural charisma that captivates diners and draws them into his gastronomic world. His ability to share his culinary knowledge and expertise with others has made him a respected mentor and educator in the industry. Kamrul Islam is not simply a chef; he is a visionary whose passion, creativity, and dedication to his craft continue to inspire and elevate the culinary landscape.",
+        "numbers_of_views": 45000
+        
+    },
+    {
+        "chef_id":5,
+        "Chef_Picture": "https://i.ibb.co/c2Fvfbb/Chef-5.png",
+        "Chef_Name": "Nasrin Sultana",
+        "Years_of_experience": 6,
+        "Numbers_of_recipes": 45,
+        "Likes": 700,
+        "about_chef": "Nasrin Sultana is a chef whose culinary prowess and heartfelt approach to cooking have made her a standout figure in the culinary world. With a rich heritage rooted in traditional flavors and techniques, Nasrin has masterfully infused her cultural background into her culinary creations, creating a unique and delightful fusion of flavors. Her dishes are a reflection of her deep understanding and appreciation for the ingredients she works with, as she expertly combines spices, herbs, and aromatics to create harmonious and mouthwatering experiences for her diners. Nasrin's passion for cooking goes beyond just the art of preparing meals; she seeks to connect with people through her food, sharing stories, memories, and traditions with every dish she serves. Her warm and welcoming nature shines through in her interactions with guests, as she takes pleasure in introducing them to the authentic flavors of her heritage. Nasrin Sultana is not only a talented chef but also a cultural ambassador, using food as a means to bridge gaps, foster understanding, and create moments of joy and connection for those who have the pleasure of savoring her culinary creations.",
+        "numbers_of_views": 4500
+        
+    },
+    {
+        "chef_id": 6,
+        "Chef_Picture": "https://i.ibb.co/Tr0CC0s/chef-6.png",
+        "Chef_Name": "Shahid Ahmed",
+        "Years_of_experience": 3,
+        "Numbers_of_recipes": 20,
+        "Likes": 300,
+        "about_chef": "Shahid Ahmed is an extraordinary chef whose culinary journey has been marked by innovation, passion, and a relentless pursuit of excellence. With an unwavering dedication to his craft, Shahid has established himself as a true culinary artist, constantly pushing the boundaries of traditional flavors and techniques. His culinary creations are a seamless blend of contemporary influences and his deep-rooted appreciation for his cultural heritage. Shahid's dishes are not only visually stunning but also a harmonious symphony of flavors that leave a lasting impression on those fortunate enough to taste them. Beyond his culinary skills, Shahid possesses a natural charisma that captivates diners and draws them into his gastronomic world. His ability to share his culinary knowledge and expertise with others has made him a respected mentor and educator in the industry. Abdul Shahid is not simply a chef; he is a visionary whose passion, creativity, and dedication to his craft continue to inspire and elevate the culinary landscape.",
+        "numbers_of_views": 4500
+        
+    },
+    {
+        "chef_id":7,
+        
+        "Chef_Picture": "https://i.ibb.co/gvLYSWw/chef-7.png",
+        "Chef_Name": "Nargis Akhter",
+        "Years_of_experience": 7,
+        "Numbers_of_recipes": 60,
+        "Likes": 900,
+        "about_chef":"Nargis Akhter is a chef whose culinary prowess and heartfelt approach to cooking have made her a standout figure in the culinary world. With a rich heritage rooted in traditional flavors and techniques, Nargis has masterfully infused her cultural background into her culinary creations, creating a unique and delightful fusion of flavors. Her dishes are a reflection of her deep understanding and appreciation for the ingredients she works with, as she expertly combines spices, herbs, and aromatics to create harmonious and mouthwatering experiences for her diners. Nargis's passion for cooking goes beyond just the art of preparing meals; she seeks to connect with people through her food, sharing stories, memories, and traditions with every dish she serves. Her warm and welcoming nature shines through in her interactions with guests, as she takes pleasure in introducing them to the authentic flavors of her heritage. Nargis Akhter is not only a talented chef but also a cultural ambassador, using food as a means to bridge gaps, foster understanding, and create moments of joy and connection for those who have the pleasure of savoring her culinary creations.",
+        "numbers_of_views": 4500
+        
+    },
+    {
+        "chef_id":8,
+        "Chef_Picture": "https://i.ibb.co/Yb48854/chef-8.png",
+        "Chef_Name": "Abdul Rahman",
+        "Years_of_experience": 9,
+        "Numbers_of_recipes": 80,
+        "Likes": 1100,
+        "about_chef":"Abdul Rahman is an extraordinary chef whose culinary journey has been marked by innovation, passion, and a relentless pursuit of excellence. With an unwavering dedication to his craft, Rahman has established himself as a true culinary artist, constantly pushing the boundaries of traditional flavors and techniques. His culinary creations are a seamless blend of contemporary influences and his deep-rooted appreciation for his cultural heritage. Rahman's dishes are not only visually stunning but also a harmonious symphony of flavors that leave a lasting impression on those fortunate enough to taste them. Beyond his culinary skills, Rahman possesses a natural charisma that captivates diners and draws them into his gastronomic world. His ability to share his culinary knowledge and expertise with others has made him a respected mentor and educator in the industry. Abdul Rahman is not simply a chef; he is a visionary whose passion, creativity, and dedication to his craft continue to inspire and elevate the culinary landscape.",
+        "numbers_of_views": 4500
+        
+    },
+    {
+        "chef_id":9,
+        "Chef_Picture": "https://i.ibb.co/bB6tQhv/chef-9.png",
+        "Chef_Name": "Farida Khanam",
+        "Years_of_experience": 4,
+        "Numbers_of_recipes": 25,
+        "Likes": 400,
+        "about_chef":"Farida Khanam is a chef whose culinary prowess and heartfelt approach to cooking have made her a standout figure in the culinary world. With a rich heritage rooted in traditional flavors and techniques, Farida Khanam has masterfully infused her cultural background into her culinary creations, creating a unique and delightful fusion of flavors. Her dishes are a reflection of her deep understanding and appreciation for the ingredients she works with, as she expertly combines spices, herbs, and aromatics to create harmonious and mouthwatering experiences for her diners. Farida Khanam's passion for cooking goes beyond just the art of preparing meals; she seeks to connect with people through her food, sharing stories, memories, and traditions with every dish she serves. Her warm and welcoming nature shines through in her interactions with guests, as she takes pleasure in introducing them to the authentic flavors of her heritage. Farida Khanam is not only a talented chef but also a cultural ambassador, using food as a means to bridge gaps, foster understanding, and create moments of joy and connection for those who have the pleasure of savoring her culinary creations.",
+        "numbers_of_views": 4500
+        
+    }
+]

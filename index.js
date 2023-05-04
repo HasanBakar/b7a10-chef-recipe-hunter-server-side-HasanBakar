@@ -7,14 +7,23 @@ app.use(cors());
 
 const chefs = require('./data/top_chefs.json')
 
+const chefsDetails = require('./data/Chefs__recipes.json')
+
 
 app.get('/', (req, res) =>{
-    res.send("ChefTracker is ready for providing data")
+    res.send("ChefTracker server is ready for providing data")
 });
 
 app.get('/chefs', (req, res) =>{
     res.send(chefs)
 });
+
+app.get("/:id", (req, res) =>{
+  const id = req.params.id;
+  const chef = chefsDetails.find(cd => cd.chef_id === id);
+  res.send(chef)
+
+})
 
 
 app.listen(port, () => {
